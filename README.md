@@ -10,3 +10,9 @@
 - re-learn many of the scala and functional thinking
 - put in the effort
 
+# Acknowledgements
+
+The below resources helped me a lot, thank you for sharing
+
+- https://github.com/chuchunf/leetcode-scala-3/tree/main
+- 
