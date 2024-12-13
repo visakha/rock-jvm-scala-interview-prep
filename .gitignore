@@ -1,0 +1,69 @@
+# ================ #
+# SBT and Scala    #
+# ================ #
+
+# SBT directories and files
+target/
+project/target/
+project/project/
+
+# Scala compilation files
+*.class
+*.log
+.cache
+
+# User-defined settings and local properties
+#*.properties
+#*.launch
+#*.bat
+
+# Logs and debug files
+*.log
+*.tmp
+
+# Output directories
+dist/
+output/
+
+# Generated files and reports
+build/
+reports/
+coverage/
+test-reports/
+
+# Dependency resolution folders
+.lib/
+
+# IDE-specific files (should be excluded based on your IDE)
+#.idea/
+#.bsp/
+#*.iml
+#*.ipr
+#*.iws
+#.vscode/
+
+# Scala-specific folders
+#.metals/
+#.bloop/
+#.worksheet/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ================ #
+# Optional         #
+# ================ #
+
+# If using Docker
+*.jar
+*.war
+*.ear
+
+# If using global libraries or tools
+lib_managed/
+seqos/
+
+# If using IntelliJ IDEA with SBT
+.idea_modules/
